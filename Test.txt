@@ -1,0 +1,2 @@
+Hello this is the better way to gain more experience 
+for dealing with git and github
